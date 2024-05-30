@@ -1,7 +1,7 @@
 # Rakesh Kandula
 
 **(326)-467-5867** • **[kandula.15@wright.edu](mailto:kandula.15@wright.edu)** • **[LinkedIn](https://www.linkedin.com/in/rakesh-kandula-41678314a/)**
-
+<img src="https://media.licdn.com/dms/image/D4E03AQFaDx7voiKy_Q/profile-displayphoto-shrink_400_400/0/1711592385753?e=1722470400&v=beta&t=RXrz3aMYTnLDgkSjbCCGMPWxPDivyMDt45frJq8U8Do" alt="Rakesh Kandula" style="float: right; border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
 ---
 
 ## SUMMARY
