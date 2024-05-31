@@ -5,7 +5,7 @@
 ---
 
 ## SUMMARY
-An experienced Machine Learning Engineer proficient in developing and deploying models across varied domains such as knowledge graphs and natural language processing. Beginner level expertise in large language models and Retrieval Augmented Generation. Actively pursuing full-time opportunities to contribute expertise in AI solutions, specializing in deep learning model architecture and optimization.
+An experienced Machine Learning Engineer proficient in developing and deploying models across varied domains such as knowledge graphs and natural language processing. Beginner level expertise in large language models and Retrieval Augmented Generation.
 
 ---
 
